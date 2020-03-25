@@ -11,8 +11,7 @@ La usaria buscando el lenguaje con el que quiera trabajar para copiar el conteni
 Creo que lo dejaria por defecto de como esta en la pagina, hasta que vea necesario agregar otros archivos o carpetas que necesito que sean ignoradas.
 
 ## Puntero
-Si resolvió correctamente los puntos ii y iii notará que el resultado es el mismo.
-### ¿a qué se debe?
+### Si resolvió correctamente los puntos ii y iii notará que el resultado es el mismo. ¿a qué se debe?
 La variable al ser declarada se la posiciona en un espacio de la memoria y damos esa dirección al puntero, por lo tanto el puntero guarda la dirección de memoria de la variable.
 ###  ¿Qué obtiene en el punto 4? ¿es igual a los anteriores? ¿por qué?
 El punto 4 nos daria un resultado diferente a los anteriores, porque ahora estamos mostrando la dirección de memoria del puntero y no su contenido o la dirección a la que apunta.
